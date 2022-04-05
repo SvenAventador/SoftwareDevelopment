@@ -1,2 +1,2 @@
-# SoftwareDevelopment
-Laboratory work #1
+# SoftwareDevelopmentTools-1
+This finished laboratory work on the subject software development tools
